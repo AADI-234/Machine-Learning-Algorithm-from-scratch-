@@ -1,13 +1,13 @@
-# This repository contains machine learning models made for WOC 5.0 2023
+## This repository contains machine learning models made for WOC 5.0 2023
 
-# It has implementations of the following algorithms
+### It has implementations of the following algorithms from scratch.
 
-# Linear Regression
+ + Linear Regression
 
-# Polynomial Regression
+ + Polynomial Regression
 
-# Logistic Regression
+ + Logistic Regression
 
-# K-Nearest Neighbours
+ + K-Nearest Neighbours
 
-# n-layer Neural Network
+ + n-layer Neural Network
